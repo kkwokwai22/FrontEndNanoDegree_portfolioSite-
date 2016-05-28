@@ -1,0 +1,50 @@
+
+
+
+.logo {
+ margin-left: 20px;
+}
+
+.header-name {
+    width: 400px;
+    height: 100px;
+    padding-right: 30px;
+    margin-left: auto;
+    text-align: right;
+    font-family: Goudy Old Style;
+
+}
+
+.border {
+    border: 2px;
+    border-color: #2d3c49;
+    border-style: solid;
+    margin: 20px 0;
+   }
+
+.quote {
+    padding-left: 450px;
+}
+
+.feature {
+  font-family: Goudy Old Style;
+  font-size: 20px;
+  opacity: 0.5;
+  height: 100px;
+  margin-left: 20px;
+}
+
+.col-md-12 {
+    width: 100%;
+}
+
+.projects {
+    display: flex;
+}
+
+.col-md-12 {
+    text-align: center;
+    font-family:  Goudy Old Style;
+}
+
+
